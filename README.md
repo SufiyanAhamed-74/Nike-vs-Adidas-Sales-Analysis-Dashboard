@@ -87,37 +87,6 @@ The project focuses on:
 - Identification of high-priced products.
 - Interactive business analysis using Power BI filters.
 
-## 📂 Suggested Repository Structure
-
-```text
-Nike-Adidas-Sales-Dashboard/
-│
-├── README.md
-├── Nike_Adidas_Sales_Dashboard.pbix
-├── dataset/
-│   └── dataset.csv
-│
-└── images/
-    └── dashboard.png
-```
-
-## 🖼️ Dashboard Preview
-
-Add your dashboard screenshot to the `images` folder and use the following Markdown:
-
-```markdown
-![Nike vs Adidas Sales Dashboard](images/dashboard.png)
-```
-
-## 🚀 How to Use
-
-1. Download or clone this repository.
-2. Open the `.pbix` file using **Microsoft Power BI Desktop**.
-3. If required, update the dataset/file path in Power Query.
-4. Refresh the data.
-5. Use the **Main Brand** and **Price Segment** filters to interact with the dashboard.
-6. Explore the different visuals and KPIs.
-
 ## 📚 Skills Demonstrated
 
 - Power BI Dashboard Development
@@ -130,14 +99,6 @@ Add your dashboard screenshot to the `images` folder and use the following Markd
 - Business Analysis
 - Interactive Reporting
 - Brand & Product Performance Analysis
-
-## 🔮 Future Enhancements
-
-- Add time-based sales trend analysis if date data becomes available.
-- Add profitability analysis if revenue and profit data are available.
-- Add advanced DAX measures for deeper product-level analysis.
-- Add drill-through pages for individual product analysis.
-- Add automated AI-generated business insights.
 
 ## 👨‍💻 Project Purpose
 
